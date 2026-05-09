@@ -1,0 +1,26 @@
+:root {
+  /* Zell Pastel Palette */
+  --color-bg: #F7F4EF;
+  --color-surface: #FFFFFF;
+  --color-accent-1: #C8DDD4; /* Sage green */
+  --color-accent-2: #E8D5C4; /* Warm peach */
+  --color-accent-3: #D4CAEC; /* Soft lavender */
+  --color-accent-4: #F0E6D3; /* Cream */
+  
+  --color-text-primary: #1A1A1A;
+  --color-text-muted: #666666;
+  --color-border: #E5E5E5;
+
+  /* Typography */
+  --font-display: 'Outfit', 'Inter', system-ui, sans-serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* Shadows */
+  --shadow-soft: 0 4px 20px rgba(0, 0, 0, 0.05);
+  --shadow-medium: 0 10px 30px rgba(0, 0, 0, 0.08);
+
+  /* Transitions */
+  --transition-fast: 200ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-medium: 400ms cubic-bezier(0.4, 0, 0.2, 1);
+}
