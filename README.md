@@ -282,7 +282,7 @@ docker-compose up --build
 # 👨‍💻 Contributors
 
 - Yashika
-- Team Members
+- Tanvi Borkar
 
 ---
 
